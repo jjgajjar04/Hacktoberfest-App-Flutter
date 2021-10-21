@@ -54,4 +54,4 @@ Yay!! Refresh your profile at <a href="https://hacktoberfest.digitalocean.com/">
     
   [Nirbhay Makhija](https://github.com/Nirbhay-nrb)
     
-Copyright (c) 2021 Nirbhay-nrb
+Copyright (c) 2021 [Nirbhay-nrb](https://github.com/Nirbhay-nrb)
